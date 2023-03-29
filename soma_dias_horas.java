@@ -19,4 +19,3 @@ public class Main{
       System.out.printf("Resultado %d\n",calc);
   }
 }
-
